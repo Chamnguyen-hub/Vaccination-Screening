@@ -6,7 +6,7 @@ During vaccination screening, it is necessary to undestand personal health condi
 - Ensure alignment between national practices and global standards (WHO, CDC).
 - Facilitate international sharing through bilingual tools.
 
-## 📂 Repository Structure (gợi ý)
+## 📂 Repository Structure
 
 - `/checklists/`: PDF/Word versions of screening tools
 - `/post-vaccination/`: Clinical considerations after vaccination
